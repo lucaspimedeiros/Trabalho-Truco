@@ -1,0 +1,2 @@
+# Trabalho-Truco
+Projeto Truco
